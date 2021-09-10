@@ -1,0 +1,16 @@
+{
+	"name": "time-tracking-dashboard-main",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"keywords": [],
+	"author": "Williams Samuel",
+	"homepage": "https://williamssam.github.io/time-tracking-dashboard",
+	"license": "ISC",
+	"dependencies": {
+		"gh-pages": "^3.2.3"
+	}
+}
